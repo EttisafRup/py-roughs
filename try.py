@@ -2,7 +2,7 @@ import os
 os.system("clear")
 ##
 
-simple = "Rup is a very nice little boy!";
+simple = "Rup is a very nice little boy!"
 simpleArr = ["Rup", "Suchishmeeta", "Anika", "Tisha"]
 simpleArrNum = [5,6,8,3,0,4,2]
 
